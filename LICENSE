@@ -1,0 +1,67 @@
+                    GNU AFFERO GENERAL PUBLIC LICENSE
+                       Version 3, 19 November 2007
+
+Copyright (C) 2026 Nurunim-Co (dhype7)
+ForensicsMainHand — https://github.com/Dhype7/FMH-Toolkit
+
+Everyone is permitted to copy and distribute verbatim copies of this license
+document, but changing it is not allowed.
+
+                            PREAMBLE
+
+The GNU Affero General Public License is a free, copyleft license for software
+and other kinds of works, specifically designed to ensure cooperation with the
+community in the case of network server software.
+
+When we speak of free software, we are referring to freedom, not price.
+
+TERMS AND CONDITIONS
+
+0. Definitions.
+
+"This License" refers to version 3 of the GNU Affero General Public License.
+"The Program" refers to ForensicsMainHand and all its components.
+"You" refers to the licensee.
+
+1. SOURCE CODE & USE
+   You may use, study, copy, and distribute this software under the following
+   conditions. You MUST keep all copyright notices intact. You MUST include
+   this license in all copies or substantial portions of the software.
+
+2. MODIFICATIONS
+   You may modify this software, but if you distribute a modified version —
+   including running it as a network service — you MUST release your modified
+   source code under this same AGPL-3.0 license. You cannot close-source a
+   fork of this project.
+
+3. NO COMMERCIAL EXPLOITATION WITHOUT PERMISSION
+   You may NOT sell this software, offer it as a paid service, rebrand it as
+   your own product, or otherwise commercially exploit it without explicit
+   written permission from the copyright holders (Nurunim-Co).
+
+4. ATTRIBUTION REQUIRED
+   Any use, redistribution, or derivative work MUST clearly credit:
+     - Original Project: ForensicsMainHand
+     - Authors: Nurunim-Co (dhype7 / sa05e60)
+     - Repository: https://github.com/Dhype7/FMH-Toolkit
+
+5. NO WARRANTY
+   THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED. IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES
+   OR OTHER LIABILITY ARISING FROM USE OF THIS SOFTWARE.
+
+6. FULL LICENSE TEXT
+   The complete GNU AGPL-3.0 license is available at:
+   https://www.gnu.org/licenses/agpl-3.0.html
+
+   This project is licensed under AGPL-3.0 with the additional commercial
+   restriction in clause 3 above.
+
+---
+TL;DR:
+  ✅ Use it freely for personal/educational/research purposes
+  ✅ Fork it and contribute back
+  ✅ Learn from the source code
+  ❌ Do NOT sell it or offer it as a paid product
+  ❌ Do NOT rebrand and claim it as your own
+  ❌ Do NOT close-source a fork

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="12" fill="#0a0e1a"/>
+  <rect x="2" y="2" width="60" height="60" rx="10" stroke="#00d4ff" stroke-width="1.5" stroke-dasharray="4 2"/>
+  <path d="M32 12L20 22v12l12 10 12-10V22L32 12z" stroke="#00d4ff" stroke-width="2" fill="rgba(0,212,255,0.1)"/>
+  <path d="M32 16L22 24v10l10 8 10-8V24L32 16z" stroke="#00ff88" stroke-width="1" fill="none"/>
+  <circle cx="32" cy="30" r="4" fill="#00d4ff"/>
+  <text x="32" y="54" text-anchor="middle" fill="#00d4ff" font-family="monospace" font-size="8" font-weight="bold">FMH</text>
+</svg>

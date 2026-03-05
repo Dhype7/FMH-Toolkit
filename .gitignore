@@ -1,0 +1,78 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# =========================
+# Node / Frontend
+# =========================
+node_modules/
+frontend/dist/
+frontend/.vite/
+.npm
+*.tsbuildinfo
+
+# =========================
+# Flask / Backend runtime
+# =========================
+backend/uploads/
+backend/outputs/
+backend/venv/
+*.log
+instance/
+
+# =========================
+# OS / Editor
+# =========================
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# =========================
+# Backup / temp files
+# =========================
+*.bak
+*.backup
+*.orig
+*.tmp
+*.temp
+*_backup*
+*_old*
+*_copy*
+*.copy
+*.save
+
+# =========================
+# Secrets / env
+# =========================
+.env
+.env.*
+*.secret
+secrets.py
+config_local.py
+
+# =========================
+# Archives / extracted data
+# =========================
+*.extracted/
+*_carved/
+*_recursive/
