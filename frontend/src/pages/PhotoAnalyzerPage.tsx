@@ -579,7 +579,7 @@ export default function PhotoAnalyzerPage() {
                         binwalk: '/carving/binwalk',
                         signatures: '/carving/signatures',
                       };
-                      const extra = carvingTool === 'auto' ? { action: 'extract' } : {};
+                      const extra = carvingTool === 'auto' ? { action: 'extract' } : undefined;
                       analyze(endpointMap[carvingTool], extra);
                     }}
                     className="cyber-btn-primary"
